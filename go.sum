@@ -1,0 +1,3 @@
+github.com/go-chi/chi v4.0.2+incompatible/go.mod h1:eB3wogJHnLi3x/kFX2A+IbTBlXxmMeXJVKy9tTv1XzQ=
+github.com/pascaldekloe/jwt v1.6.0 h1:sAcojQXrNLE787cpO3wQs6dKETadxFCcCXeRj1f/he0=
+github.com/pascaldekloe/jwt v1.6.0/go.mod h1:TKhllgThT7TOP5rGr2zMLKEDZRAgJfBbtKyVeRsNB9A=

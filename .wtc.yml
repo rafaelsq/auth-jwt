@@ -1,0 +1,8 @@
+debounce: 300
+ignore: (\.git|vendor)/
+trig:
+  - run
+rules:
+  - name: run
+    match: \.go$
+    command: go run cmd/server/server.go
